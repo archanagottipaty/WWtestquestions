@@ -1,3 +1,4 @@
 # WWtestquestions
 This files were created using PyCharm CE.
-The ran with no errors.
+It ran with no errors.
+executables take no inputs.
