@@ -1,10 +1,13 @@
+#I will generate random numbers using randint and then populate a list 
+# I will sort the list and that will make it easy to find any value using it's position in the list
+
 from random import randint
 
 def Nthsmallest(myrandomnumbers, n):
    myrandomnumbers.sort()
    print(myrandomnumbers[n - 1])
-   print(myrandomnumbers)
-
+ 
+#list that will contain the random numbers
 myrandomnumbers = []
 
 for x in range(500):
